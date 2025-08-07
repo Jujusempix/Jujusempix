@@ -23,4 +23,5 @@
   <img width="150" height="150" src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" />
   <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/e7020a68-541e-445a-97a2-8b5ed8730149" />
   <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/c5fed3f8-d526-4ea6-8d87-dc350bee5d21" />
+  <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/a27f68f6-5cdd-4812-905a-dbc1d3f9f7b6" />
 </div>
